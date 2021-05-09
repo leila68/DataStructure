@@ -14,4 +14,4 @@ They don't have any dependency and they should be run independently. Each of the
 5. Doubly linked list(add first, add last, search delete, reverse)
 
 ### Installation
-You only need a C# compiler like visual studio to run these codes
+There are written in C# and are tested in visual studio on windows.
